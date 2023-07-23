@@ -1,4 +1,5 @@
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import { NavLink } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -17,7 +18,8 @@ const Footer = () => {
 
         <div className="footer-column mt-4 sm:mt-0">
           <p className="text-lg font-semibold">Privacy Policy</p>
-          <a href="Privacy" target="_blank" className="mt-2">Read our privacy policy here.</a>
+          <NavLink
+           to="/Privacy" className="mt-2">Read our privacy policy here.</NavLink>
         </div>
 
         <div className="footer-column mt-4 sm:mt-0">

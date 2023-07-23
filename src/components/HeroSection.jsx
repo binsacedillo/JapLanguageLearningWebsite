@@ -1,5 +1,6 @@
 import backgroundImg from '../images/hero.jpg';
 import '../styles/HeroSection.css';
+import { Link } from 'react-router-dom';
 
 const HeroSection = () => {
   return (
@@ -19,9 +20,9 @@ const HeroSection = () => {
           Discover the joy of connecting with japanese through their rich culture.
         </p>
         <div className="hero-btn">
-          <a href="/Language" className="cursor-pointer">
+          <Link to="/Language" className="cursor-pointer">
             Get Started
-          </a>
+          </Link>
         </div>
       </div>
     </div>
