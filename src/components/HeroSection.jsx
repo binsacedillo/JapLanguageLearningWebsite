@@ -19,7 +19,7 @@ const HeroSection = () => {
           Discover the joy of connecting with japanese through their rich culture.
         </p>
         <div className="hero-btn">
-          <a href="Language" className="cursor-pointer">
+          <a href="/Language" className="cursor-pointer">
             Get Started
           </a>
         </div>
