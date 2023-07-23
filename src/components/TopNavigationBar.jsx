@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import { NavLink as RouterNavLink } from 'react-router-dom';
 import '../styles/NavBar.css';
 import japaneseLanguageSchoolLogo from '../images/logo.png';
-import HeroSection from './HeroSection';
 
 const TopNavigationBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -120,7 +119,6 @@ const TopNavigationBar = () => {
         )}
       </div>
     </nav>
-    <HeroSection />
     </main>
   );
 };

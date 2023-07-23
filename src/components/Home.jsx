@@ -1,4 +1,5 @@
 import TopNavigationBar from './TopNavigationBar'
+import HeroSection from './HeroSection'
 import Footer from './Footer'
 
 export const Home = () => {
@@ -7,6 +8,7 @@ export const Home = () => {
     <>
       <main>
         <TopNavigationBar />
+        <HeroSection />
         <Footer />
       </main>
     </>
