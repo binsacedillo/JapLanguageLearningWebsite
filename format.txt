@@ -1,0 +1,46 @@
+# Home Page
+
+- **Top navigation bar**: Logo, Home, Language Programs, Community, Resources, Testimonies, Signup/Login.
+- **Hero section**: An engaging headline with a supporting sub-line, an image featuring diverse people learning languages, and a 'Get Started' button.
+- **Features of the platform**: Illustrated tiles displaying features like interactive lessons, real-time progress tracking, personalized coaching, speech recognition technology, etc.
+- **Language selection section**: A world map or images representing different countries where users can click to choose their desired language.
+- **How it Works section**: Step-by-step guide on how to use the platform.
+- **Testimonies**: Short video clips or quotes from satisfied users.
+- **Footer**: About Us, Contact Info, Privacy Policy, Terms of Use, Social Links.
+
+# Language Program Page
+
+- **Page header**: Photo representing the country/culture of the language, with language name.
+- **Program Description**: Comprehensive details about the language program, such as course content, difficulty level, expected outcomes.
+- **Sample Lesson**: Interactive section allowing visitors to experience part of a lesson.
+- **Pricing Information**: Clear packages or subscription options, with a comparison table.
+- **CTA to enroll**: Animated or highlighted call-to-action button.
+
+# Community Page
+
+- **Forum Introduction**: Brief description of the community, guidelines.
+- **Forum**: User posts categorized by different language subjects.
+- **Global User Map**: Interactive map showcasing users' locations worldwide.
+- **User Stories**: Highlighted success stories from users.
+
+# Resources Page
+
+- **Resource Center header**: Catchy line to engage users.
+- **Learning materials**: E-books, podcasts, videos, infographics.
+- **Blog**: Useful articles about language learning tips, culture insights, etc.
+- **Webinars/Events**: Information about upcoming scheduled language-related webinars or events.
+ 
+# User Account Page
+
+- **User Dashboard**: Overview of user's progress, upcoming lessons, reminders.
+- **My Courses**: List of enrolled courses with current progress.
+- **Performance Analytics**: Charts or graphs showing the user's performance over time.
+- **Personalised Recommendations**: Recommended resources based on user's learning ability and preference.
+
+Using a visual hierarchy, minimalist design, and user-friendly navigation aids the user experience. Colors could follow a multicultural theme to represent global language diversity.
+
+
+
+
+
+

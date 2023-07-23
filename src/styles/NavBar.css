@@ -1,0 +1,62 @@
+.button {
+  background-color: #4B0082;
+  /* Indigo */
+  color: #FAF0E6;
+  /* White (Pearl) */
+  font-size: 14px;
+  padding: 2px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.nav-link {
+  color: #fff;
+  font-weight: 500;
+  /* Adjust this value as needed */
+}
+
+.button:hover {
+  background-color: #DC143C;
+  /* Red (Crimson) */
+}
+
+a:hover {
+  color: #ff95ab;
+  /* Change this to the desired hover color */
+  transition: background-color 0.3s ease;
+  /* Add a smooth transition effect */
+}
+
+/* MobileMenu animation */
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+.menu-open {
+  animation: slideIn 0.3s ease forwards;
+}
+
+.md:hidden {
+  /* Add this property to prevent the element from taking up space when hidden */
+  display: none;
+  /* Keep the opacity transition */
+  transition: opacity 0.3s ease;
+}
+
+/* Keep the .md:hidden:not(.open) opacity transition */
+.md:hidden:not(.open) {
+  opacity: 0;
+}
+
+/* NavLinks hover effect */
+.NavLink:hover {
+  background-color: #8B8682;
+  /* Grey (Shadow) */
+}
